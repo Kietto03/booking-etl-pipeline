@@ -1,0 +1,7 @@
+apache-airflow>=2.8.0
+pandas
+playwright
+sqlalchemy
+psycopg2-binary
+apache-airflow-providers-common-sql
+apache-airflow-providers-postgres
